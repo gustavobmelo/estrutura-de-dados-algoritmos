@@ -1,4 +1,4 @@
-# estrutura-de-dados-algoritmos
+# sistemas de bancos de dados
 Estrutura de DADOS e ALGORITMOS (Professor Rafael)
 
 git add . 
